@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hazer Inaltekin / Wireless Researcher"
+title                    : "Hazer Inaltekin"
 title_separator          : "-"
 name                     : &name "Hazer Inaltekin"
 description              : &description "I am a Senior Lecturer of Wireless Communications in the School of Engineering, Macquarie University."
